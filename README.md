@@ -11,11 +11,11 @@ TON or Telegram on the integration side.**
 
 ### What I work on
 
-**Backend** - Go (Chi/Gin), PostgreSQL (pgx, sqlc, goose), Redis, REST + WebSocket
-**Frontend** - React, TypeScript, Vite, TanStack Query, Zustand, Zod, Tailwind
-**Realtime & infra** - WebSocket orderbooks, River/cron job pipelines, circuit breakers, rate limiting, Sentry, Prometheus, GCP
-**Integrations** - Telegram Mini Apps, Bot API, MTProto, TON, TON Connect, MinIO
-**Practices** - DDD, clean architecture, integration testing with Testcontainers, AsyncAPI
+- **Backend** - Go (Chi/Gin), PostgreSQL (pgx, sqlc, goose), Redis, REST + WebSocket
+- **Frontend** - React, TypeScript, Vite, TanStack Query, Zustand, Zod, Tailwind
+- **Realtime & infra** - WebSocket orderbooks, River/cron job pipelines, circuit breakers, rate limiting, Sentry, Prometheus, GCP
+- **Integrations** - Telegram Mini Apps, Bot API, MTProto, TON, TON Connect, MinIO
+- **Practices** - DDD, clean architecture, integration testing with Testcontainers, AsyncAPI
 
 ---
 
