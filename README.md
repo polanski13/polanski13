@@ -13,7 +13,7 @@
 
 ## About
 
-- 7+ years in development and 4+ years building commercial products across crypto, gaming, prediction markets, and ecommerce.
+- 7+ years in development and 4+ years building commercial products.
 - Strong in Go and React/TypeScript, with deep focus on realtime systems, Telegram Mini Apps, and TON ecosystem integrations.
 - Led architecture and delivery on several Telegram Mini App products, including a P2P NFT marketplace, a prediction market, and a high-load gaming platform with 20+ domain modules.
 - Comfortable owning a feature end-to-end: schema, API, UI, deploy, observability. Equally at home shipping a high-throughput WebSocket orderbook and a polished UI for the same product.
