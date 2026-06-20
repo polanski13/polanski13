@@ -1,6 +1,4 @@
 <h1 align="center">Fullstack Developer</h1>
-<p align="center"><strong>Fullstack Developer</strong> focused on product impact, system architecture, and shipping end-to-end.</p>
-<p align="center">Go • TypeScript • React • PostgreSQL • Realtime • Telegram Mini Apps • TON</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
