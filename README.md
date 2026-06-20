@@ -26,16 +26,6 @@
 
 Background includes lead-level work across BitGift, Durov Caps, Pick, Asseco, and Accenture.
 
-## Core Expertise
-
-- Backend: Go, Chi, Gin, REST, WebSocket, JWT, pgx, sqlc, goose, River
-- Frontend: TypeScript, React, Next.js, Vue, Vite, TanStack Query, Zustand, Zod, Tailwind
-- Architecture: DDD, clean architecture, realtime systems, event-driven design, idempotent flows
-- Databases: PostgreSQL, Redis, AlloyDB, ClickHouse, MongoDB, MySQL
-- Quality: integration testing with Testcontainers, CI/CD, observability with Sentry and Prometheus
-- Integrations: Telegram Bot API, Telegram Mini Apps, MTProto, TON, TON Connect, MinIO
-- Infrastructure: Docker, Docker Compose, GitLab CI, GCP, nginx, systemd
-
 ## Contact
 
 - Email: [a_polanski@wolfram.id](mailto:a_polanski@wolfram.id)
