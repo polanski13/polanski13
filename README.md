@@ -57,6 +57,6 @@ Background includes lead-level work across BitGift, Durov Caps, Pick, Asseco, an
 ## Contact
 
 - Email: [a_polanski@wolfram.id](mailto:a_polanski@wolfram.id)
-- Languages: English (B2) · Russian (Native) · Polish (B1) · Danish (A1)
+- Languages: English (B2 IELTS) · Russian (Native) · Polish (B1) · Danish (A1)
 
 If you are hiring for a senior fullstack, backend, or platform role with strong product ownership and a realtime or Telegram/TON dimension, I would be glad to connect.
